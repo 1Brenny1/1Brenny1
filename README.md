@@ -1,5 +1,5 @@
-# Hi there 👋
-My name is Brendan, This is an alt for school my main is @1Brenny1
+# Hello there 👋
+My name is Brendan, You can see more info and reach me on my site https://Brenny.tk/
 
 ## ✍ Programming Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
